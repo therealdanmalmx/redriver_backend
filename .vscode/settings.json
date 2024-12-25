@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "bin/Release/net8.0/publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/e06031af-1b4d-4c13-ae26-3fb876ae9af4/resourceGroups/redriver_test/providers/Microsoft.Web/sites/redriverTestDmo"
+}
